@@ -130,7 +130,7 @@ Trade executed: BUY at 95000.0 with volume 0.01
 - Multi-symbol trading from a single webhook.
 
 ## Trading Viewsetup 
- - ![TradingView](images/tradingview.png)
+![TradingView](images/tradingview.png)
 
 ## Author
 **Vishnu AR** 
